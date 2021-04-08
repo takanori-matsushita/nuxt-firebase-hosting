@@ -18,3 +18,11 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## firebase deploy
+とりあえず手動の場合
+```bash
+$ yarn generate
+
+$ firebase deploy
+```
