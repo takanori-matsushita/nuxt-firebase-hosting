@@ -2,7 +2,7 @@
   <div class="container">
     <div>
       <Logo />
-      <h1 class="title">nuxt-firebase-hosting</h1>
+      <h1 class="title">change title</h1>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
