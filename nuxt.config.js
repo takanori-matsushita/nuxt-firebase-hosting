@@ -59,8 +59,8 @@ export default {
    */
   build: {},
 
-  env: {
-    apiKey: process.env.APIKEY,
+  publicRuntimeConfig: {
+    apiKey: process.env.API_KEY,
     authDomain: process.env.AUTH_DOMAIN,
     databaseURL: process.env.DATABASE_URL,
     projectId: process.env.PROJECT_ID,
